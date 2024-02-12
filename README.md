@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Geemi Wellawatte
-- 👀 I’m interested in computational chemistry
-- 🌱 I’m currently working on applying machine learning methods to solve chemistry related problems
-- 📫 How to reach me: gwellawa@ur.rochester.edu
+- 👀 I’m working at the intersection of chemistry and AI
+- 🌱 Interests: XAI, LLMs, Deep learning for chemistry
+- 📫 How to reach me: gwellawatte@gmail.com
 
 <!---
 geemi725/geemi725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
